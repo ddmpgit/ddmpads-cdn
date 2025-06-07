@@ -1,5 +1,5 @@
 // DDMPADS - Daily Tech Hub
-// Gerado em: 2025-06-07T11:05:18.455Z
+// Gerado em: 2025-06-07T11:28:51.662Z
 // N?O EDITE ESTE ARQUIVO - Gerado automaticamente
 
 (function(){'use strict';
