@@ -1,5 +1,5 @@
 // DDMPADS - SerieDrame
-// Gerado em: 2025-06-16T16:36:23.013Z
+// Gerado em: 2025-06-17T01:25:51.400Z
 
 (function(){'use strict';
 const CONFIG={"g":"111315806","p":"seriedrama","dp":"0.00","pk":"ddmp_price","fn":"ddmpads-seriedrama.js","sn":"SerieDrame","refresh":{"enabled":true,"delay":30,"interval":30,"maxCount":1}};
