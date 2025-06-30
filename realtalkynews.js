@@ -1,5 +1,5 @@
 // DDMPADS - rtn
-// Gerado em: 2025-06-30T23:50:56.263Z
+// Gerado em: 2025-06-30T23:51:31.021Z
 
 (function(){'use strict';
 const CONFIG={"g":"22925918110","p":"as_realtalkynews","dp":"0.00","pk":"adseleto_price_floor","fn":"realtalkynews.js","sn":"rtn","refresh":{"enabled":true,"delay":30,"interval":30,"maxCount":1}};
