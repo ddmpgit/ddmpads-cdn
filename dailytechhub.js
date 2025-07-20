@@ -1,5 +1,5 @@
 // DDMPADS - dth
-// Gerado em: 2025-07-19T20:03:22.953Z
+// Gerado em: 2025-07-20T01:33:55.350Z
 
 (function(){'use strict';
 const CONFIG={"g":"136870988","p":"dailytechhub.net","dp":"0.00","pk":"ddmp_price","fn":"dailytechhub.js","sn":"dth","refresh":{"enabled":true,"delay":30,"interval":30,"maxCount":1}};
