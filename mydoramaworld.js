@@ -1,5 +1,5 @@
 // DDMPADS - mdw
-// Gerado em: 2025-07-21T22:31:09.646Z
+// Gerado em: 2025-07-21T22:34:22.686Z
 
 (function(){'use strict';
 const CONFIG={"g":"22925918110","p":"as_mydoramaworld","dp":"0.00","pk":"adseleto_price_floor","fn":"mydoramaworld.js","sn":"mdw","refresh":{"enabled":true,"delay":30,"interval":30,"maxCount":1}};
